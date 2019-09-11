@@ -1,4 +1,5 @@
 #include<stdio.h>
+//Ansh Tyagi IT 11912079
 int main(){
 	int a,b,c,d;
 	printf("enter 4 numbers:\n");
